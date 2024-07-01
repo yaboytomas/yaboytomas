@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaboytomas
 - 👀 I’m on the road to becoming a software developer.
-- ⚡  I've currently learned git, html, CSS and javascript
+- ⚡  I've currently learned git, html, CSS , SQL and a bit of javascript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project possible to gain experience and further my learning.
 - 📫 How to reach me @yaboytomas IG 
